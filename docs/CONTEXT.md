@@ -4,7 +4,7 @@
 The AI Lawyer platform delivers AI-powered legal assistance through a secure, user-authenticated system. All features require Supabase authentication to ensure security and personalization.
 
 ## Technology Stack
-| Component | Technology |
+| Component | Technolog |
 |-----------|------------|
 | Frontend | React (Next.js) with Tailwind CSS |
 | Auth & Database | Supabase |
